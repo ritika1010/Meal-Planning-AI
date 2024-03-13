@@ -1,5 +1,6 @@
 # 🥘 Meals and Recipes Planner 📆
-
+## Frontend Repository : 
+https://github.com/ritika1010/Meal-Planning-AI-FE 
 ## Team Members:
 - Ritika Deshpande (rgd2127)
 - Vedangi Wagh (vw2287)
